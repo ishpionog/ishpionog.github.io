@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ishpionog.github.io/sitemap.html.gz
+Sitemap: https://ishpionog.github.io/app/sitemap.html.gz
+Sitemap: https://ishpionog.github.io/assets/sitemap.html.gz
+Sitemap: https://ishpionog.github.io/css/sitemap.html.gz
+Sitemap: https://ishpionog.github.io/data/sitemap.html.gz
+Sitemap: https://ishpionog.github.io/includes/sitemap.html.gz
+Sitemap: https://ishpionog.github.io/item/sitemap.html.gz
+Sitemap: https://ishpionog.github.io/src/sitemap.html.gz
